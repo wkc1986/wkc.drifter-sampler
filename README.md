@@ -1,7 +1,10 @@
 # wkc.drifter-sampler
 Max for Live sampler instrument. Granulates with 2d.wave~ with random motion between slices.  
 4-voice.  
-This is intended for sustained droney purposes (long notes).
+This is intended for sustained droney purposes (long notes).  
+`wkc.drifter-sampler.amxd` is the main file.  
+Open `drifter-sampler.maxproj` for an overview of all files.  
+Subpatchers in `/patchers` including some factory abstractions copied to local.  
 
 ## Instructions
 1. Drop audio file to load.
