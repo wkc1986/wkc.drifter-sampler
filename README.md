@@ -6,7 +6,7 @@ This is intended for sustained droney purposes (long notes).
 ## Instructions
 1. Drop audio file to load.
 2. Select section to be played with `rslider` (overlaid on top of `waveform~`).
-3. Set root transposition with `kslider` below (C4 = no transpose).
+3. Set root MIDI note with `kslider` below (C4 = no transpose).
 4. Choose # of slices to chop selection into with knob.
 5. **Motion** panel:
   * *Drift*: interval at which random positions in the selection are generated.
