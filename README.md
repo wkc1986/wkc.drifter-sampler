@@ -2,7 +2,7 @@
 Max for Live sampler instrument. Granulates with 2d.wave~ with random motion between slices.  
 4-voice.  
 This is intended for sustained droney purposes (long notes).  
-`wkc.drifter-sampler.amxd` is the main file.  
+`wkc.drifter-sampler.amxd` is the main file. Drag it into a Live MIDI track.  
 Open `drifter-sampler.maxproj` for an overview of all files.  
 Subpatchers in `/patchers` including some factory abstractions copied to local.  
 
